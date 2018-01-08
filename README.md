@@ -13,5 +13,5 @@
  <!-- <img src="/public/pupparktwo.png" />
  <img src="/public/pupparkthree.png" />
  <img src="/public/pupparkfour.png" /> -->
-
+<h1>Status:</h1><p>Currently working on bugs but please...snoop around.</p>
  <h1>Comments:</h1> <p>Something clever will be added later.  Please be patient.</p>
