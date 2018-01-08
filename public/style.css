@@ -1,0 +1,78 @@
+* {
+    background-color: #57A18E;
+}
+button {
+    background-color: #C88747;
+}
+section {
+    background-color: #57A18E;
+}
+input {
+
+    font-family: Courier;
+    font-size: 16px;
+    font-weight: bolder;
+    background-color: #C88747;
+}
+body {
+
+    background-color: #57A18E;
+    min-height: 100vh;
+}
+main {
+    grid-row: 2/3;
+    grid-column: 2/3;
+    height: 100px;
+    width: 100px;
+}
+img {
+    height: 300px;
+    width: 340px;
+    border-radius: 30px;
+
+}
+/*#profile-pic {
+    height: 200px;
+    width: 200px;
+    border-radius: 30px;
+}*/
+#logo-image {
+    height: 150px;
+    width: 150px;
+    border-radius: 30px;
+}
+textarea{
+    background-color: white;
+    height: 90px;
+    width: 500px;
+}
+.logo {
+    grid-column: 1/2;
+    grid-row: 1/2;
+}
+p {
+    height: 100px;
+    width: 500px;
+}
+.container {
+    display: grid;
+    grid-template-columns:  1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+}
+
+.image-form {
+    grid-column: 2/3;
+    grid-row: 2/3;
+}
+.bio-container {
+    grid-column: 3/4;
+    grid-row: 2/3;
+}
+.profile-image-big {
+    grid-column: 3/4;
+    grid-row: 1/2;
+}
+/*.bio-text {
+    grid-column: 2/3;
+    grid-row: 1/2;
+}*/
